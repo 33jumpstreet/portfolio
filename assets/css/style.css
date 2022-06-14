@@ -1,0 +1,78 @@
+/* 전체레이아웃 */
+#wrap {
+  text-align: center;
+}
+#main {
+  height: 1258px;
+}
+#introduce {
+  height: 1258px;
+}
+#contents {
+  height: 2321px;
+}
+#archiving {
+  height: 800px;
+}
+#footer {
+  height: 800px;
+}
+
+/* 레이아웃 */
+#main-top {
+  height: 122px;
+  line-height: 122px;
+  background: #55efc4;
+}
+#main-cont {
+  height: 1136px;
+  line-height: 1136px;
+  background: #00b894;
+}
+#intro-top {
+  height: 190px;
+  line-height: 190px;
+  background: #81ecec;
+}
+#intro-cont {
+  height: 1068px;
+  line-height: 1068px;
+  background: #00cec9;
+}
+#cont-top {
+  height: 190px;
+  line-height: 190px;
+  background: #a29bfe;
+}
+#cont-cont {
+  height: 2131px;
+  line-height: 2131px;
+  background: #6c5ce7;
+}
+#arch-top {
+  height: 190px;
+  line-height: 190px;
+  background: #74b9ff;
+}
+#arch-cont {
+  height: 610px;
+  line-height: 610px;
+  background: #74b9ff;
+}
+#footer-top {
+  height: 190px;
+  line-height: 190px;
+  background: #fab1a0;
+}
+#footer-cont {
+  height: 610px;
+  line-height: 610px;
+  background: #e17055;
+}
+/* 컨데이너 */
+.container {
+  width: 1065px;
+  background: rgba(0,0,0,0.3);
+  margin: 0 auto;
+  height: inherit;
+}
