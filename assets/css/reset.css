@@ -2,3 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
+/* 폰트 초기화 */
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Gowun Dodum', sans-serif;
+}

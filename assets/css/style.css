@@ -76,3 +76,38 @@
   margin: 0 auto;
   height: inherit;
 }
+
+/* 메인 */
+.header {
+  position: relative;
+}
+.header-tit {
+  position: relative;
+}
+.header-tit h1 {
+  position: absolute;
+  padding-left: 110px;
+  font-weight: bold;
+}
+.header-tit img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.header-menu {
+  position: absolute;
+  right: 0;
+  top: -35px;
+  margin: -10px 10px;
+}
+.header-menu a {
+  color: #fff;
+  padding-right: 8px;
+  display: inline-block;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+
